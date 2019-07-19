@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Bowl
+comment0.text=\n\ The\ class\ BOWL\ is\ the\ image\ for\ the\ user\ playing\ the\ game\ that\ is\ trying\ to\ get\ more\ 'good'\n\ fruits,\ while\ avoiding\ the\ 'bad'\ fruits.\n\ \n\ @author\ (Akash\ Kodela)\ \n\ @version\ (1.0)\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ Bowl\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment2.params=
+comment2.target=void\ move()
+comment2.text=\n\ code\ to\ make\ the\ bowl\ move\ with\ the\ left\ and\ right\ arrow\ keys.\n
+comment3.params=
+comment3.target=void\ myIsCollided()
+comment3.text=\n\ code\ to\ check\ if\ the\ fruit(s)\ are\ colliding\ with\ the\ bowl\ (the\ player).\n
+numComments=4
